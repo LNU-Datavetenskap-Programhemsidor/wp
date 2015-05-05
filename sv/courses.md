@@ -34,7 +34,7 @@ Grundtekniker för skapande av vektor-baserad grafik, bitmapbaserad grafik samt 
 * Kursens webbplats kommer att annonseras här
 
 ## Serverbaserad webbprogrammering 7,5hp (VT ÅK1)
-_Obligatorisk_
+_Obligatorisk kurs_
 
 Konstruktion av webbserverbaserade applikationer samt förståelse för olika typer av webbservrar och dess kommunikation med webbklienten
 
@@ -51,7 +51,7 @@ Introduktion i programvaruutveckling. Kursen fokuserar på verktyg som kan anvä
 * Kursens webbplats kommer att annonseras här.
 
 ## Individuellt mjukvaruutvecklingsprojekt 7,5hp (VT ÅK1)
-_Obligatorisk_
+_Obligatorisk kurs_
 
 Genomförande av ett mjukvaruprojekt där en fungerande mjukvara skall utvecklas med hjälp av de teoretiska och praktiska förutsättningar som getts i tidigare kurser. Kursen har ett entreprenöriellt fokus.
 
@@ -60,7 +60,7 @@ Genomförande av ett mjukvaruprojekt där en fungerande mjukvara skall utvecklas
 * [Kursen på GitHub](https://github.com/1dv430)
 
 ## Objektorienterad analys och design med UML 7,5hp (HT ÅK2)
-_Obligatorisk_
+_Obligatorisk kurs_
 
 Kunskaper om hur objektorienterad analys och design kan implementeras i ett objektorienterat programmeringsspråk samt grunderna i modelleringsspråket UML.
 
@@ -69,14 +69,14 @@ Kunskaper om hur objektorienterad analys och design kan implementeras i ett obje
 
 
 ## Introduktion till mjukvarukvalitet 7,5hp (HT ÅK2)
-_Obligatorisk_
+_Obligatorisk kurs_
 
 Framställning av webbaserad mjukvara med hög kodkvalitet.
 
 Ny kurs 2016
 
 ## Mjukvarutestning 7,5hp (HT ÅK2)
-_Obligatorisk_
+_Obligatorisk kurs_
 
 Enhets-, system- och integrationstestning, acceptanstestning
 
@@ -84,32 +84,33 @@ Enhets-, system- och integrationstestning, acceptanstestning
 * [Kursen webbplats](//coursepress.lnu.se/kurs/mjukvarutestning/)
 
 ## Databasteknik 7,5 hp (HT ÅK2)
-_Obligatorisk_
+__Obligatorisk kurs_
 
 Metoder och teorier för databasdesign. Frågespråk, dokument- och relationsdatabaser.
 
 Ny kurs HT2016
 
 ## Webbramverk 7,5 hp (VT ÅK2)
-_Obligatorisk_
+_Obligatorisk kurs_
 
 Förståelse för hur webbramverk och designmönster kan användas i samband med utveckling av webbapplikationer.
 
 Ny kurs HT2016
 
 ## Webben som applikationsplattform 7,5 hp (VT ÅK2)
-_Obligatorisk_
+_Obligatorisk kurs_
+
 Webbens arkitektur, framväxt och utveckling samt betydelse/påverkan för dagens samhälle.
 
 Ny kurs HT2016
 
 ## Mjukvaruutvecklingsprojekt 7,5hp (VT ÅK2)
-_Obligatorisk_
+_Obligatorisk kurs_
 
 Genomförande av ett kundorienterat mjukvaruprojekt med ett fokus på projektledning och projektplanering.
 
 ## Självständigt arbete 7,5hp (VT ÅK2)
-_Obligatoriskt_
+_Obligatorisk kurs_
 
 Självständigt arbete omfattande teoretisk och experimentell verksamhet med åtföljande rapportskrivning och muntlig presentation.
 
