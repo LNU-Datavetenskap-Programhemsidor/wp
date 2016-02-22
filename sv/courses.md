@@ -15,7 +15,7 @@ _Obligatorisk kurs_
 Grundläggande webbdesign med klientbaserad teknik.
 
 * [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1ME321.pdf)
-* Kursens webbplats kommer att annonseras här
+* [Kursens webbplats](http://medieteknik.lnu.se/1me321/)
 
 ## Klientbaserad webbprogrammering 7,5hp (HT ÅK1)
 _Obligatorisk kurs_
@@ -31,16 +31,16 @@ Konstruktion av webbläsarbaserade applikationer med bland annat Javascript.
 Grundtekniker för skapande av vektor-baserad grafik, bitmapbaserad grafik samt 3D-grafik.
 
 * [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1ME402.pdf)
-* Kursens webbplats kommer att annonseras här
+* [Kursens webbplats](https://coursepress.lnu.se/kurs/grafiska-verktyg/)
 
 ## Serverbaserad webbprogrammering 7,5hp (VT ÅK1)
 _Obligatorisk kurs_
 
 Konstruktion av webbserverbaserade applikationer samt förståelse för olika typer av webbservrar och dess kommunikation med webbklienten
 
-* Kursplan ej fastslagen
-* Kursens webbplats kommer att annonseras här.
-* Kursens github-organisation kommer att annonseras här.
+* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV022.pdf)
+* [Kursens webbplats](https://coursepress.lnu.se/kurs/serverbaserad-webbprogrammering/)
+* [Kursen på GitHub](https://github.com/1dv023)
 
 ## Programvarutteknik 7,5hp (VT ÅK1)
 _Obligatorisk kurs_
@@ -48,7 +48,7 @@ _Obligatorisk kurs_
 Introduktion i programvaruutveckling. Kursen fokuserar på verktyg som kan användas under utveckling av programvara som stöd för bland annat modellering, konfigurationshantering och testning.
 
 * [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV100.pdf)
-* Kursens webbplats kommer att annonseras här.
+* [Kursens webbplats](https://mymoodle.lnu.se/course/view.php?id=18996)
 
 ## Individuellt mjukvaruutvecklingsprojekt 7,5hp (VT ÅK1)
 _Obligatorisk kurs_
