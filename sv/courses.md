@@ -38,7 +38,7 @@ _Obligatorisk kurs_
 
 Konstruktion av webbserverbaserade applikationer samt förståelse för olika typer av webbservrar och dess kommunikation med webbklienten
 
-* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV022.pdf)
+* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV023.pdf)
 * [Kursens webbplats](https://coursepress.lnu.se/kurs/serverbaserad-webbprogrammering/)
 * [Kursen på GitHub](https://github.com/1dv023)
 
