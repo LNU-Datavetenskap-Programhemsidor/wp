@@ -47,7 +47,7 @@ _Obligatorisk kurs_
 
 Introduktion i programvaruutveckling. Kursen fokuserar på verktyg som kan användas under utveckling av programvara som stöd för bland annat modellering, konfigurationshantering och testning.
 
-* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV100.pdf)
+* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV600.pdf)
 * [Kursens webbplats](https://mymoodle.lnu.se/course/view.php?id=18996)
 
 ## Individuellt mjukvaruutvecklingsprojekt 7,5hp (VT ÅK1)
@@ -64,7 +64,7 @@ _Obligatorisk kurs_
 
 Kunskaper om hur objektorienterad analys och design kan implementeras i ett objektorienterat programmeringsspråk samt grunderna i modelleringsspråket UML.
 
-* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV407.pdf)
+* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV607.pdf)
 * [Kursens webbplats](//coursepress.lnu.se/kurs/objektorienterad-analys-och-design-med-uml/)
 
 
@@ -73,24 +73,24 @@ _Obligatorisk kurs_
 
 Framställning av webbaserad mjukvara med hög kodkvalitet.
 
-Ny kurs 2016
+* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV610.pdf)
 
 ## Mjukvarutestning 7,5hp (HT ÅK2)
 _Obligatorisk kurs_
 
 Enhets-, system- och integrationstestning, acceptanstestning
 
-* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-2DV110.pdf)
+* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-2DV610.pdf)
 * [Kursen webbplats](//coursepress.lnu.se/kurs/mjukvarutestning/)
 
-## Databasteknik 7,5 hp (HT ÅK2)
+## Databasteori 7,5 hp (HT ÅK2)
 __Obligatorisk kurs_
 
 Metoder och teorier för databasdesign. Frågespråk, dokument- och relationsdatabaser.
 
-Ny kurs HT2016
+* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-2DV513.pdf)
 
-## Webbramverk 7,5 hp (VT ÅK2)
+## Arkitekturer och ramverk för webbapplikationer 7,5 hp (VT ÅK2)
 _Obligatorisk kurs_
 
 Förståelse för hur webbramverk och designmönster kan användas i samband med utveckling av webbapplikationer.
