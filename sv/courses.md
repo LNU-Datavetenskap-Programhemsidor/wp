@@ -1,5 +1,7 @@
 Nedan följer de kurser som ingår i programmet Webbprogrammerare 120hp. Kurserna nedan gäller för startåret HT2015. Vissa kurser finns att söka som fristående kurser och alla kurser har helt öppet material så att du kan ta del av inspelade föreläsningar, se laborationsinstruktioner etc.
 
+För att ta del av våra föreläsningar så rekommenderar jag att du skaffar ett konto på tjänsten [https://www.livecoding.tv/](https://www.livecoding.tv/) och gillar vår sida [https://www.livecoding.tv/webbprogrammerare/](https://www.livecoding.tv/webbprogrammerare/). Prenumerar gärna även på vår [kanal på Youtube](https://www.youtube.com/c/webbprogrammerare).
+
 ## Grundläggande programmering 7,5hp (HT ÅK1)
 _Obligatorisk kurs_
 
