@@ -61,6 +61,15 @@ Genomförande av ett mjukvaruprojekt där en fungerande mjukvara skall utvecklas
 * [Kursens webbplats](//coursepress.lnu.se/kurs/individuellt-mjukvaruutvecklingsprojekt/)
 * [Kursen på GitHub](https://github.com/1dv430)
 
+## Objektorienterad programmering 7,5hp (VT ÅK1)
+_Obligatorisk kurs_
+
+Klassbaserad objektorienterad programmering med C#.
+
+* [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV024.pdf)
+* [Kursens webbplats](//coursepress.lnu.se/kurs/objektorienterad-programmering/)
+* [Kursen på GitHub](https://github.com/1dv024)
+
 ## Objektorienterad analys och design med UML 7,5hp (HT ÅK2)
 _Obligatorisk kurs_
 
