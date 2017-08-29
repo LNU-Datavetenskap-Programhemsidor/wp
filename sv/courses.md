@@ -80,7 +80,7 @@ _Obligatorisk kurs_
 Framställning av webbaserad mjukvara med hög kodkvalitet.
 
 * [Kursplan](http://kursplan.lnu.se/kursplaner/kursplan-1DV610.pdf)
-* [Kursens webbplats](//coursepress.lnu.se/kurs/introduktion-till-mjukvarukvalitet/)
+* [Kursens webbplats](//coursepress.lnu.se/kurs/introduktiontillmjukvarukvalitet/)
 
 ## Mjukvarutestning 7,5hp (HT ÅK2)
 _Obligatorisk kurs_
